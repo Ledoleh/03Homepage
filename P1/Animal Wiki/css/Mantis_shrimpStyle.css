@@ -1,0 +1,229 @@
+body {
+	background-color: black;
+	margin-left: 160px;
+	margin-right: 150px; 
+	margin-top: 20px;
+	font-family: 'Lato', sans-serif;
+
+
+}
+
+.container {
+	margin-right: 450px;
+	margin-top: 290px;
+	margin-left: 140px;
+	background-color: #a59468;
+	padding-right: 25px;
+	padding-left: 10px;
+	padding-bottom: 90px;
+}
+
+#navbar {
+	z-index: 2;
+	overflow: hidden ;
+	background-color: #c65a12;
+	position: fixed;
+	text-align: center;
+	top: 0;
+	left: 0;
+	width: 100%;
+	display: block;
+	height: 43px;  /* was 43 */
+	padding-top: 10px;
+
+
+	
+	/*  */
+	
+}
+#navbar a {
+	padding: 20px;
+	color: white;
+	text-decoration: none;
+
+}
+
+#navbar a:hover {
+	background-color: black;
+
+}
+
+#navbar a:active {
+	color:#c65a12 ;
+}
+
+#About {
+	display: block;
+	position: relative;
+	color: white;
+	background-color: black;
+	padding-left: 10px ;
+	height: ;
+	padding-bottom: 5px;
+	padding-top: 30px;
+	width: 1500px;
+	left: -10px;
+
+}
+
+#Bio {
+	display: block;
+	position: relative;
+	color: white;
+	background-color: black;
+	padding-left: 10px;
+	height: ;
+	padding-bottom: 5px;
+	padding-top: 30px;
+	width: 1500px;
+	left: -10px;
+
+}
+
+#claws {
+	display: block;
+	color: black;
+	background-color: #c65a12;
+	padding-top:3px ;
+	height: ;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	width: 300px;
+
+}
+
+#eyes {
+	display: block;
+	color: black;
+	background-color: #c65a12;
+	padding-left: 3px ;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	width: 300px;
+}
+
+#Eco {
+	display: block;
+	position: relative;
+	color: white;
+	background-color: black;
+	padding-left: ;
+	height: ;
+	padding-bottom: 5px;
+	padding-top: 30px;
+	padding-left: 10px;
+	width: 1500px;
+	left: -10px;
+}
+
+#habitat {
+	display: block;
+	color: black;
+	background-color: #c65a12;
+	padding-left: 3px ;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	width: 300px;
+
+}
+
+#Relationship {
+	display: block;
+	color: white;
+	position: relative;
+	background-color: black;
+	padding-left: 10px;
+	height: ;
+	padding-bottom: 5px;
+	padding-top: 30px;
+	width: 1500px;
+	left: -10px;
+}
+
+#aquaria {
+	display: block;
+	color: black;
+	background-color: #c65a12;
+	padding-left: 3px ;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	width: 300px;
+}
+
+
+.mantis_main {
+	position: absolute;
+	right: ;
+	top: ;
+	left: 200px;
+	bottom: 190px;
+	z-index: 1;
+}
+
+.mantis1 {
+	float: right;
+	position: relative;
+	top: 370px;
+
+}
+
+.mantis2 {
+	float: right;
+	position: relative;
+	top: 850px;
+	left: 250px;
+
+
+}
+
+.mantis3 {
+	float: right;
+	position: relative;
+	left: 500px;
+	top: 1200px;
+}
+
+
+.mantis4 {
+	float: right;
+	position: relative;
+	left: 750px;
+	top: 1550px;
+}
+
+.mantis5 {
+	float: right;
+	position: relative;
+	top: 1830px;
+}
+
+.mantis6 {
+	float: right;
+	position: relative;
+	top: 2500px;
+	left: 250px;
+}
+
+.rightBox {
+	background-color: #c4b99d;
+	position: absolute;
+	float: right;
+	top: 510px;
+	height: 2943px;
+	width: 900px;
+	left: 800px;
+	padding-bottom: 50px;
+
+	z-index: -1;
+}
+
+h3 {
+
+}
+
+footer {
+	color: white;
+	margin-left: 140px;
+	padding-top: 50px;
+}
+
